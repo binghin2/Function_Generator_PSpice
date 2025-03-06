@@ -1,9 +1,0 @@
-The conversion of the project was successful.
-
-The new directory structure is as follows:
-
-C:/Users/USER/Desktop/모병현 문서/20190699_모병현_프로젝트/PSpice/1
-    main.opj
-    project2.dsn
-C:/Users/USER/Desktop/모병현 문서/20190699_모병현_프로젝트/PSpice/1/main-PSpiceFiles
-C:/Users/USER/Desktop/모병현 문서/20190699_모병현_프로젝트/PSpice/1/main-PSpiceFiles/SCHEMATIC1
